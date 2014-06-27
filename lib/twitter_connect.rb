@@ -1,7 +1,7 @@
-class TwitterConnect  
-  attr_accessor :server_response
+# class TwitterConnect  
+#   attr_accessor :server_response
 
-  def initialize
+#   def initialize
 
-  end
-end
+#   end
+# end
